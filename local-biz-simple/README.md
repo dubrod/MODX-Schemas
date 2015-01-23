@@ -2,6 +2,12 @@
 ###Simple Local Business Chunk
 
  - http://schema.org/LocalBusiness
+
+1. Go to Settings > Property Sets
+2. Click "New Property Set"
+3. call it `schema_local_biz` 
+4. Click on "Import Properties"
+5. Import JS file
  
 Chunk Name `schema_local_biz`
 
